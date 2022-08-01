@@ -23,3 +23,6 @@ class HomeScreen extends StatelessWidget {
 
 
 ```
+
+# Controller
+- 위젯들을 프로그램적으로 조정할수있는 기능을 제공해주는것이다.
